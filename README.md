@@ -37,7 +37,7 @@ NOTE: Yes you'll see "Run as admin" here, for the purpose of this project we wil
 
 
 <p>
-2.) Once we're in file locations, right click again, and select properties. Then once that window is up, we'll want to click on the "Advanced" command.  It'll pop up a new window, and we'll want to select "Run as administrator". Hit "OK", "Apply", "OK".
+2.) Once we're in file locations, right-click again, and select properties. Then once that window is up, we'll want to click on the "Advanced" command.  It'll pop up a new window, and we'll want to select "Run as administrator". Hit "OK", "Apply", "OK".
 </p>
 <br />
 
@@ -49,7 +49,7 @@ NOTE: Yes you'll see "Run as admin" here, for the purpose of this project we wil
 
 
 <p>
-3.) Now we will go re-open command prompt similar to how we did in step 1,  left click it, and if done correctly it'll ask if you want to give it permissions with a pop-up window. Say yes, and now you're in CMD with admin privleges.
+3.) Now we will go re-open the command prompt similar to how we did in step 1,  left click it, and if done correctly it'll ask if you want to give it permissions with a pop-up window. Say yes, and now you're in CMD with admin privileges.
 
 You can also check the actual title of the window where it'll state it's administrator.
 
@@ -60,7 +60,7 @@ You can also check the actual title of the window where it'll state it's adminis
 
 
 <p>
-4.) We will run a few commands in CMD, just to get an idea what cmd prompt is capabe of.  Now that it is in admin mode, you shouldn't receive any restrictions to anything commands you enter, and it'll automatically bypass denying commands that may modify system settings, or affect other users on the same computer.
+4.) We will run a few commands in CMD, just to get an idea what cmd prompt is capable of.  Now that it is in admin mode, you shouldn't receive any restrictions to anything commands you enter, and it'll automatically bypass denying commands that may modify system settings, or affect other users on the same computer.
 
 For this project we won't be diving in that deep into commands.
 
@@ -83,9 +83,9 @@ It will not show any line-item results in cmd, however if you open a notepad and
 
 
 <p>
-Curious how I got the cmd line with weather in the beginning? Next we will use CMD to tell us the weather!
+Curious as to how I got the cmd line with weather in the beginning? Next we will use CMD to tell us the weather!
 
- I've personally made the move from Houston --> Philladelphia within the past week. So, in the middle of this project I've become curious what the weather I left behind is like currently. Instead of clicking on my taskbar, I'd like to see what cmd says about the weather in houston
+ I've personally made the move from Houston --> Philadelphia within the past week. So, in the middle of this project I've become curious what the weather I left behind is like currently. Instead of clicking on my taskbar, I'd like to see what cmd says about the weather in Houston
 
 So next, to check that, we'll type in 
 
@@ -96,7 +96,7 @@ curl wttr.in/Houston    (or change Houston to where you want)
 ![image](https://github.com/Nickklein13/CMDadmin-andcommands/assets/150096883/cf485b7b-6871-464c-8110-088fe404dbef)
 
 <p>
-And as you can see, we now havven't even need to leave CMD to get a 3 day forecast, or current weather conditions of Harris County in Houston, Tx.
+And as you can see, we now haven't even need to leave CMD to get a 3 day forecast, or current weather conditions of Harris County in Houston, TX.
 </p>
 <br />
 
@@ -124,7 +124,7 @@ Not able to communicate with it, however Google is working?
 
 
 <p>
-There are thousands of different commands you can do CMD prompt, these were just a few to demonstrate the basic background of this project. After reading this, you should now be able to open CMD in admin, set it to permanently open in admn, and hopefully learned a few new fun commands in command prompt you didn't know bwfore.
+There are thousands of different commands you can do CMD prompt, these were just a few to demonstrate the basic background of this project. After reading this, you should now be able to open CMD in admin, set it to permanently open in admin, and hopefully learned a few new fun commands in command prompt you didn't know before.
 
 </p>
 <br />
